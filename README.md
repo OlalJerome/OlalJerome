@@ -16,8 +16,8 @@ I specialize in:
 ### 📌 [Task-1-Responsive-login-screen](https://github.com/OlalJerome/Task-1-Responsive-login-screen)  
 💡 A fully responsive login screen using **HTML, CSS, and JavaScript**.  
 
-### 📌 [SafeMed Platform](https://github.com/OlalJerome/SafeMed) *(Private)*  
-  A web platform for telemedicine services and connecting doctors to patients, and biomedical engineers to health facilities.  
+### 📌 [Chess Game with Pygame and AI](https://github.com/OlalJerome/Chess-Game-with-Pygame-and-AI)  
+💡 A chess game built using **Pygame**, featuring an AI opponent.
 
 ### 📌 [Machine Learning for Disease Prediction](https://github.com/OlalJerome/ML-Disease-Prediction)  
 💡 AI models for diagnosing **diabetes, pneumonia, and malaria** using medical datasets.  
